@@ -121,7 +121,7 @@ Ensure you have the following installed on your system:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/aniketsharma889/News-website
+git clone https://github.com/aniketsharma071/News-website
 ```
 
 2. **Navigate to the project directory**:
@@ -179,3 +179,4 @@ http://localhost:3000
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [MongoDB Documentation](https://www.mongodb.com/docs/)
 - [Express.js Documentation](https://expressjs.com/en/starter/installing.html)
+
